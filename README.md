@@ -20,6 +20,11 @@
 </p>
 
 
+<p align="center">
+  <img alt="screenshot" src="screenshot.png">
+</p>
+
+
 
 ## 💡 About the project
 
